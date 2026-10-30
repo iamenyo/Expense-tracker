@@ -2,9 +2,8 @@
 
 A command-line Expense Tracker built with Python.
 
-This project focuses on the backend logic of an expense tracking application. The goal is to develop and test the application's core functionality before building a graphical user interface.
+This project focuses on the backend logic of an expense tracking application. The goal is to develop and test the application's core functionality.
 
-The current version does not focus on UI or UX because desktop interface is planned for a future release.
 
 ## Features
 
@@ -62,29 +61,6 @@ Each expense is stored as a dictionary:
 - Finding minimum and maximum values
 - Organizing application logic into reusable functions
 - Backend-first application development
-
-## Future Improvements
-
-### Backend
-
-- Search expenses
-- Filter expenses by category
-- Category-based statistics
-- Monthly reports
-- Budget tracking
-- Export expenses to CSV
-
-### GUI
-
-- Build a desktop application
-- Display expenses in a table
-- Forms for adding and editing expenses
-- Buttons and menus for navigation
-- Improved user experience and visual design
-
-## Project Status
-
-The backend is functional and provides all core expense-tracking features. The next step is to build a graphical user interface  while reusing the existing backend logic.
 
 ## Author
 
